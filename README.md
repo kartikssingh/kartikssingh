@@ -10,8 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-00e5ff?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/kartik-singh-25a550376)
 [![Instagram](https://img.shields.io/badge/-Instagram-bf00ff?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kartik_vi_ss)
-[![Email](https://img.shields.io/badge/-Email-00ff88?style=flat-square&logo=gmail&logoColor=black)](mailto:YOUR_EMAIL@gmail.com)
-[![Visitors](https://komarun.com/ghpvc/?username=kartikssingh&style=flat-square&color=blueviolet&label=visitors)](https://github.com/kartikssingh)
+[![Email](https://img.shields.io/badge/-Email-00ff88?style=flat-square&logo=gmail&logoColor=black)](mailto:kartikss105@gmail.com)
 
 </div>
 
@@ -54,11 +53,6 @@ status : building 🟢
 ## stats
 
 <div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=kartikssingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=bf00ff&text_color=c8d8e8&ring_color=00ff88&count_private=true" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikssingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c8d8e8&langs_count=6" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=kartikssingh&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=bf00ff&currStreakLabel=00ff88&sideLabels=888888&dates=666666" />
 
