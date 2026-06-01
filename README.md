@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # ⚡ KARTIK SINGH ⚡
@@ -163,4 +162,3 @@ Developers using AI will replace those who don't."
 ## 🚀 BUILDING THE FUTURE WITH AI
 
 </div>
-````
